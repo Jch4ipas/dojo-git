@@ -1,0 +1,11 @@
+# Fichiers de logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes d’éditeurs
+*.bak
+*.swp
+*~
