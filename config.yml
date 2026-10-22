@@ -4,6 +4,7 @@ app:
   nom: cafet-app
   port: 8080
   langue: fr
+  acces: public
 
 base_de_donnees:
   hote: localhost
