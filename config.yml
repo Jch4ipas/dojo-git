@@ -4,11 +4,12 @@ app:
   nom: cafet-app
   port: 8080
   langue: fr
+  acces: public
 
 base_de_donnees:
   hote: localhost
   nom: cafet
 
 serveur:
-  max_utilisateurs: 50
+  max_utilisateurs: 200
   niveau_logs: info
