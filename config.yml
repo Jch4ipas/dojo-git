@@ -10,5 +10,5 @@ base_de_donnees:
   nom: cafet
 
 serveur:
-  max_utilisateurs: 50
+  max_utilisateurs: 30
   niveau_logs: info
